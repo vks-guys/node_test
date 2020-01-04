@@ -20,7 +20,10 @@ class Header extends Component {
                         <a> Portfolios </a>
                     </Link> ||
                         <Link href="/test">
-                        <a> test </a>
+                        <a> Test </a>
+                    </Link>
+                    <Link href="/course">
+                        <a> Course </a>
                     </Link>
                 </div>
             </React.Fragment>
