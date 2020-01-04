@@ -1,14 +1,14 @@
 import React from 'react';
 import BaseLayout from '../components/layouts/BaseLayout';
 
-class Course extends React.Component {
+class Category extends React.Component {
     render() {
         return (
             <BaseLayout>
-                <div className="cv">This is from CV pages !</div>
+                <div className="cv">This is from Category pages !</div>
             </BaseLayout>
         )
     }
 }
 
-export default Cv;
+export default Category;

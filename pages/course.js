@@ -5,10 +5,10 @@ class Course extends React.Component {
     render() {
         return (
             <BaseLayout>
-                <div className="cv">This is from CV pages !</div>
+                <div className="cv">This is from Course pages !</div>
             </BaseLayout>
         )
     }
 }
 
-export default Cv;
+export default Course;
