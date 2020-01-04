@@ -40,7 +40,7 @@ class Page extends Component {
     }
 
     render() {
-        console.log("testTT", this.props)
+        console.log("testTT", this.props, this.props)
         return (
             <BaseLayout>
                 <div>
