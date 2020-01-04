@@ -21,9 +21,12 @@ class Header extends Component {
                     </Link> ||
                         <Link href="/test">
                         <a> Test </a>
-                    </Link>
+                    </Link> ||
                     <Link href="/course">
                         <a> Course </a>
+                    </Link>  ||
+                    <Link href="/category">
+                        <a> Category </a>
                     </Link>
                 </div>
             </React.Fragment>
